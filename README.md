@@ -7,3 +7,4 @@ Dies ist ein Projekt, um die Grundlagen von Git zu lernen
 4. Dies ist eine Aenderung Nummer4
 5. Dies ist eine Aenderung Nummer5
 6. Dies ist eine Aenderung Nummer6
+7. Dies ist eine Aenderung Nummer7
