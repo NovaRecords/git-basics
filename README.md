@@ -13,3 +13,4 @@ Dies ist ein Projekt, um die Grundlagen von Git zu lernen
 10. Dies ist eine Aenderung Nummer10
 11. Dies ist eine Aenderung Nummer11
 12. Dies ist eine Aenderung Nummer12
+13. Dies ist eine Aenderung Nummer13
