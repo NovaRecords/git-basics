@@ -19,3 +19,4 @@ Dies ist ein Projekt, um die Grundlagen von Git zu lernen
 16. Dies ist eine Aenderung Nummer16
 17. Dies ist eine Aenderung Nummer17
 18. Dies ist eine Aenderung Nummer18
+19. Dies ist eine Aenderung Nummer19
